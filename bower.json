@@ -1,0 +1,17 @@
+{
+    "name": "forum-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Denis Masharov"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/forum-bower.git"
+    },
+    "description": "Forum font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
